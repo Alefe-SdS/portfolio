@@ -51,7 +51,7 @@ Olá! Me chamo **Álefe Santana** e sou apaixonado por transformar ideias em có
 
 #### 🏠 Página Inicial
 
-![Tela inicial](prints/home.png)
+![Tela inicial](prints/index.png)
 
 
 #### 🙋 Sobre Mim
