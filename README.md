@@ -49,8 +49,16 @@ Olá! Me chamo **Álefe Santana** e sou apaixonado por transformar ideias em có
 
 ## 📷 Prints do Projeto
 
-![Imagem Desktop](assets/preview-desktop.png)
-![Imagem Mobile](assets/preview-mobile.png)
+#### 🏠 Página Inicial
+
+![Tela inicial](prints/home.png)
+
+
+#### 🙋 Sobre Mim
+
+![Pagina Sobre Mim](prints/sobre.png)
+
+## 📷 Prints do Projeto mobile
 
 ## 📫 Contato
 
